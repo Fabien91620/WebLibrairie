@@ -1,0 +1,14 @@
+.TitreCommande{
+    margin-left: 13%;
+    width: 70%;
+}
+
+.MesCommande a{
+    text-decoration: none;
+    color: #772ce8;
+}
+
+.MesCommande p{
+    margin-left: 13%;
+    font-size: 110%;
+}

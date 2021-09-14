@@ -1,0 +1,40 @@
+body{
+    background-image: url(assets/Background/parquet_wood_surface_board_57549_1920x1200.jpg);
+}
+
+form{
+    border: solid 2px white;
+    position: absolute;
+    margin-left: 33em;
+    width: 25em;
+    height: 13em;
+    margin-top: 18em;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+.info label{
+    margin-left: 23%;
+    color: white;
+}
+
+.info input{
+    position: absolute;
+    left: 40%;
+}
+
+.btn{
+    text-align: center;
+}
+
+#users{
+    margin-left: 1.5em;
+}
+
+.Erreur{
+    text-align: center;
+    font-size: 1em;
+}

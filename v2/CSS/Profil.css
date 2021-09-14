@@ -1,0 +1,99 @@
+.TableauDiv2{
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.TableauDiv{
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.Commande2{
+    border-radius: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #772ce8;
+    width: 45%;
+    height: 25%;
+    margin-top: 2%;
+    float: left;
+    margin-right: 2%;
+}
+
+.Connexion2{
+    border-radius: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #772ce8;
+    width: 45%;
+    height: 25%;
+    margin-top: 2%;
+    float: left;
+    margin-right: 2%;
+}
+
+.TableauDiv2 h2{
+    font-size: 150%;
+    text-align: center;
+}
+
+.TableauDiv2 a{
+    text-decoration: none;
+    color: black;
+}
+
+.TableauDiv2 p{
+    font-size: 130%;
+    text-align: center;
+}
+
+.Commande{
+    border-radius: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #772ce8;
+    width: 45%;
+    height: 25%;
+    margin-top: 2%;
+    float: left;
+    margin-right: 2%;
+}
+
+.Connexion{
+    border-radius: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #772ce8;
+    width: 45%;
+    height: 25%;
+    margin-top: 2%;
+    float: left;
+    margin-right: 2%;
+}
+
+.Admin{
+    border-radius: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #772ce8;
+    width: 93%;
+    height: 25%;
+    margin-top: 2%;
+    float: left;
+    margin-right: 2%;
+}
+
+.TableauDiv h2{
+    font-size: 150%;
+    text-align: center;
+}
+
+.TableauDiv a{
+    text-decoration: none;
+    color: black;
+}
+
+.TableauDiv p{
+    font-size: 130%;
+    text-align: center;
+}

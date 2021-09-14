@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/WebLibrairieObjets.iml" filepath="$PROJECT_DIR$/.idea/WebLibrairieObjets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MSQUALITE 20-F-V3/accens/.idea/accens.iml" filepath="$PROJECT_DIR$/../../MSQUALITE 20-F-V3/accens/.idea/accens.iml" />
+    </modules>
+  </component>
+</project>

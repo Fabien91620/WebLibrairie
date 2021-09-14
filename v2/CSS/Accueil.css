@@ -1,0 +1,296 @@
+.menu1{
+    float: left;
+}
+
+.menuFooter a{
+    text-decoration:none;
+    color: black;
+}
+
+.footer{
+    width: 100%;;
+    height: 215px;
+    background-color: #f1f1f1;
+    margin-top: 1.5%;
+    opacity: 70%;
+    margin-top: 24%;
+}
+
+.premierevisite h3{
+    float: left;
+    font-size: 115%;
+    font-weight: bold;
+}
+
+.premierevisite input{
+    margin-top: 3.5%;
+    width: 25%;
+    font-size: 105%;
+    margin-left: 2%;
+    background-color: #772ce8;
+    color: white;
+    border-radius: 10px;
+
+}
+
+.premierevisite hr{
+    width: 95%;
+}
+
+.connectionvisite{
+    float: left;
+}
+
+.connectionvisite h3{
+    font-size: 115%;
+    font-weight: bold;
+}
+
+.connectionvisite p{
+    text-decoration-color: aqua;
+    font-size: 100%;
+    margin-bottom: 6%;
+}
+
+.connectionvisite input{
+    width: 150%;
+    height: 12%;
+    border-radius: 10px;
+    font-size: 100%;
+    margin-top: 0%;
+}
+
+.btnConnec{
+    width: 25%;
+    font-size: 105%;
+    margin-left: 20%;
+    margin-top: 35%;
+    background-color: #772ce8;
+    color: white;
+    border-radius: 10px;
+}
+
+.Erreur{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 50%;
+}
+
+.ui-dialog-titlebar.ui-corner-all.ui-widget-header.ui-helper-clearfix{
+    margin-left: 65.66%;
+    margin-top: 3.75%;
+    position: absolute;
+    z-index: 100;
+    
+}
+
+.ui-button.ui-corner-all.ui-widget.ui-button-icon-only.ui-dialog-titlebar-close{
+    color: #000;
+    font-size: 0px;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: rgba(0,0,0,0.0);
+    border-color: rgba(0,0,0,0.0);
+}
+
+.dialog-connect.ui-dialog{
+    height: 100% !important;
+    width: 100% !important;
+    position: absolute !important;
+    top: 0px !important;
+    display: block;
+    background-color: rgba(0,0,0,0.6);
+}
+
+.modal-content label{
+    color: #772ce8;
+}
+
+.modal-content {
+    height: 43% !important;
+    width: 35% !important;
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    margin-top: 3.5%;
+    border: 1px solid #888;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s;
+    border-radius: 10px;
+    padding-left: 7px;
+}
+
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0} 
+  to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+
+.close {
+    color: #000;
+    float: right;
+    font-size: 28px;
+    margin-right: 2%;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.top{
+    background-color: #f1f1f1;
+    width: 100%;
+    height: 14%;
+}
+
+.titreh1{
+    float: left;
+    color: black;
+    margin-top: 2%;
+    margin-left: 18%;
+    font-size: 250%;
+}
+
+.top{
+    margin-top: 0%;
+}
+
+.topD{
+    float: left;
+    width: 70%;
+}
+
+.topBtn{
+    float: right;
+    width: 15%;
+    height: 100%;
+    margin-top: 0%;
+    margin-right: 14%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+}
+
+.topBtn a{
+    margin-left: 30%;
+    margin-top: 0%;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 110%;
+}
+
+.topBtn p{
+    margin-top: 5%;
+    margin-bottom: -5%;
+}
+
+.topBtn img{
+    margin-top: 4%;
+    float: left;
+    width: 18%;
+    height: 30%;
+    margin-bottom: 0%;
+}
+
+.roman{
+    margin-left: 8%;
+}
+
+.roman a{
+    color: #772ce8;
+    text-decoration: none;
+}
+
+.roman h1{
+    text-align: center;
+    font-style: oblique;
+    color: black;
+}
+
+.BdManga{
+    margin-top: 25%;
+    margin-left: 8%;
+}
+
+.BdManga h1{
+    text-align: center;
+    color: black;
+    font-style: oblique;
+}
+
+.h1Bd a{
+    color: #772ce8;
+    text-decoration: none;
+}
+
+.h1Bd{
+    width: 90%;
+    margin-right: 0%;
+    margin-top: 100px;
+}
+
+.h1Pa{
+    width: 90%;
+    margin-right: 0%;
+}
+
+.fiche{
+    margin-right: 25%;
+}
+
+.liLivre img{
+    width: 75%;
+    height: 30%;
+}
+
+.liLivre{
+    position: static;
+    float: left; 
+    list-style: none;
+    width: 20%; 
+    margin-right: 35px;
+}
+
+.image{
+    float: left;
+}
+
+.Recherche{
+    float: left;
+    height: 35%;
+    width: 45%;
+    margin-top: 4% !important;
+    margin-left: 5%;
+    padding: 0%;
+    margin-top: 0%;
+    border-radius: 7px;
+    font-size: 110%;
+}
+
+.bande{
+    background-color: #772ce8;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.bodya{
+    margin: 0%;
+}
+
+.btnRecherche{
+    margin-top: 3.8%;
+    width: 4%;
+    line-height: 200%;
+    background-image: url(assets/Background/btnRecherche.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    border-radius: 7px;
+}

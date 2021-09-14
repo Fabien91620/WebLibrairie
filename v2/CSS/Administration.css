@@ -1,0 +1,92 @@
+.TableauDiv{
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.Statistique{
+    border-radius: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #772ce8;
+    width: 45%;
+    height: 25%;
+    margin-top: 2%;
+    float: left;
+    margin-right: 2%;
+}
+
+.GestionCompte{
+    border-radius: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #772ce8;
+    width: 45%;
+    height: 25%;
+    margin-top: 2%;
+    float: left;
+    margin-right: 2%;
+}
+
+.Ajouter{
+    border-radius: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #772ce8;
+    width: 45%;
+    height: 25%;
+    margin-top: 2%;
+    float: left;
+    margin-right: 2%;
+}
+
+.inputFile{
+    margin-left: 12%;
+    color: #772ce8;
+    font-size: 90%;
+}
+
+.importbtn{
+    color: white;
+    font-size: 90%;
+    background-color: #772ce8;
+    border-radius: 8px;
+}
+
+.Importer{
+    border-radius: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #772ce8;
+    width: 45%;
+    height: 25%;
+    margin-top: 2%;
+    float: left;
+    margin-right: 2%;
+}
+
+.Expoter{
+    border-radius: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #772ce8;
+    width: 45%;
+    height: 25%;
+    margin-top: 2%;
+    float: left;
+    margin-right: 2%;
+}
+
+.TableauDiv h2{
+    font-size: 150%;
+    text-align: center;
+}
+
+.TableauDiv a{
+    text-decoration: none;
+    color: black;
+}
+
+.TableauDiv p{
+    font-size: 130%;
+    text-align: center;
+}

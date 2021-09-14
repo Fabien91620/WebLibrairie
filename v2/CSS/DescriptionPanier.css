@@ -1,0 +1,71 @@
+.titreCommande{
+    margin-left: 13%;
+    width: 70%;
+}
+
+.titreCommande p{
+    position: absolute;
+    margin-left: 61%;
+    font-size: 120%;
+    margin-top: -2%;
+}
+
+.tableauArticle{
+    margin-left: 13%;
+    width: 70%;
+}
+
+.article img{
+    float: left;
+    width: 16%;
+    height: 20%;
+}
+
+.quantite{
+    float: left;
+    margin-top: 12%;
+    margin-left: 0.5%;
+}
+
+.soustotal{
+    font-size: 125%;
+    margin-left: 83%;
+    font-weight:bold;
+    margin-bottom: 1%;
+}
+
+.btnRecommande{
+    margin-left: 37%;
+    margin-top: 12%;
+    width: 15%;
+    margin-bottom: 6%;
+    color: white;
+    background-color: #772ce8;
+    border-radius: 5px;
+}
+
+.titre{
+    margin-top: 0%;
+    margin-left: -6%;
+    float: left;
+    font-size: 150%;
+    text-decoration: none;
+    color: black;
+    width: 30%;
+}
+
+.titre p{
+    margin-top: 0%;
+}
+
+.prix{
+    margin-top: -20%;
+    height: 20%;
+    margin-left: 87%;
+    font-size: 130%;
+    
+}
+
+hr{
+    margin-bottom: 1%;
+}
